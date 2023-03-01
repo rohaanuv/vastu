@@ -1,0 +1,2 @@
+# vastu
+static website
